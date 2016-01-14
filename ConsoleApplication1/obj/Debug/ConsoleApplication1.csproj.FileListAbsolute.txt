@@ -1,0 +1,13 @@
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\chromedriver.exe
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.dll
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.xml
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
