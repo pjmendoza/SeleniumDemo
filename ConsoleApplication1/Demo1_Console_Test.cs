@@ -1,35 +1,35 @@
-﻿//using OpenQA.Selenium;
-//using OpenQA.Selenium.Chrome;
-//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-//namespace ConsoleApplication1
-//{
-//    class Demo1_Console_Test
-//    {
-        
-//        static void Main(string[] args)
-//        {
-//            //Instantiate a browser
+namespace ConsoleApplication1
+{
+    class Demo1_Console_Test
+    {
 
-//            IWebDriver driver = new ChromeDriver();
+        static void Main(string[] args)
+        {
+            //Instantiate a browser
 
-//            //Open System Under Test
-//            driver.Navigate().GoToUrl("http://www.google.com");
+            IWebDriver driver = new ChromeDriver();
 
-//            //Recognize/Map Screen Elements
-//            IWebElement Searchbox = driver.FindElement(By.Name("q"));
-            
-//            //Perform Tests
-//            Console.WriteLine("Running Tests in Chrome Browser...");
-//            Searchbox.SendKeys("Selenium Tutorial");
+            //Open System Under Test
+            driver.Navigate().GoToUrl("http://www.google.com");
 
-//            //Close System Under Test
-//              //driver.Close();
-//        }
+            //Recognize/Map Screen Elements
+            IWebElement Searchbox = driver.FindElement(By.Name("q"));
 
-//    } 
-//}
+            //Perform Tests
+            Console.WriteLine("Running Tests in Chrome Browser...");
+            Searchbox.SendKeys("Planit Software Testing");
+
+            //Close System Under Test
+            //driver.Close();
+        }
+
+    }
+}
