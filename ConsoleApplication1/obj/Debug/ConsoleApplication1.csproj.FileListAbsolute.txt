@@ -11,3 +11,16 @@ P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleAp
 P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
 P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
 P:\BDD\Selenium Only\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\rchia\Selena\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\rchia\Selena\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\chromedriver.exe
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\nunit.framework.dll
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\WebDriver.dll
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\nunit.framework.xml
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\WebDriver.xml
+C:\Users\rchia\Selena\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+C:\Users\rchia\Selena\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
